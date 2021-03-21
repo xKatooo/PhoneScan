@@ -4,6 +4,7 @@ Escanea números de teléfono, descubre de que país es, cual es la compañia de
 ## Requirimientos antes de instalar:
 - git
 - python3
+- pip (de python 3)
 
 ## Instalacion:
 `git clone https://github.com/xKatooo/PhoneScan.git`<br>
