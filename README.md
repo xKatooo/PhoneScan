@@ -1,5 +1,5 @@
 # PhoneScan
-Escanea números de teléfono, descubre de que país es y quien emitió el numero
+Escanea números de teléfono, descubre de que país es, cual es la compañia de un numero y quien emitió el numero entre otras cosas como las redes sociales con perfiles o publicaciones asociadas a este numero como Whatsapp, Facebook, Twitter, Instagram
 
 ## Requirimientos antes de instalar:
 - git
