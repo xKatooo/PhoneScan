@@ -6,9 +6,9 @@ Escanea números de teléfono, descubre de que país es y quien emitió el numer
 - python3
 
 ## Instalacion:
-`git clone https://github.com/xKatooo/PhoneScan.git`
-`cd PhoneScan`
-`pip install -r requirements.txt`
+`git clone https://github.com/xKatooo/PhoneScan.git`<br>
+`cd PhoneScan`<br>
+`pip install -r requirements.txt`<br>
 
 ## Uso:
 ### Windows:
@@ -19,3 +19,7 @@ Escanea números de teléfono, descubre de que país es y quien emitió el numer
 - Ejecutar `./run.sh`
 ### cualquier otro sistema con python:
 - Ejecutar en la terminal `python run.py`
+
+## Si presenta errores contactame por:
+- <a href="https://www.facebook.com/eu5ebio7w7/">Facebook</a>
+- <a href="https://discordapp.com/channels/@me/xKatooo#3005">Discord</a>
