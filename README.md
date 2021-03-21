@@ -22,6 +22,9 @@ Escanea números de teléfono, descubre de que país es, cual es la compañia de
 ### cualquier otro sistema con python:
 - Ejecutar en la terminal `python run.py`
 
+### Si tienes varias versiones de python instaladas:
+- Ejecuta `python3 ./src/index.py`
+
 ## Si presenta errores contactame por:
 - <a href="https://www.facebook.com/eu5ebio7w7/">Facebook</a>
 - <a href="https://discordapp.com/channels/@me/xKatooo#3005">Discord</a>
