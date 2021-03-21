@@ -16,6 +16,7 @@ Escanea números de teléfono, descubre de que país es, cual es la compañia de
 ### Linux: 
 - Hacer doble click sobre el archivo `run.sh`
 ### termux :
+- Ejecutar `chmod +x run.sh`
 - Ejecutar `./run.sh`
 ### cualquier otro sistema con python:
 - Ejecutar en la terminal `python run.py`
