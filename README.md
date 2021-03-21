@@ -23,3 +23,7 @@ Escanea números de teléfono, descubre de que país es y quien emitió el numer
 ## Si presenta errores contactame por:
 - <a href="https://www.facebook.com/eu5ebio7w7/">Facebook</a>
 - <a href="https://discordapp.com/channels/@me/xKatooo#3005">Discord</a>
+- <a href="https://twitter.com/eu5ebio7w7">Twitter</a>
+
+## Para colaborar:
+Para colaborar en este proyecto solo hasle fork y envia tu pull
